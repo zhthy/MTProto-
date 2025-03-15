@@ -25,8 +25,10 @@ sudo yum install -y curl docker
 sudo systemctl start docker
 sudo systemctl enable docker
 
+```
 ### 2.运行脚本
 
 ```bash
 #以root用户执行
 bash <(curl -sL https://a.hgtrojan.com/6decfa1045)
+```
